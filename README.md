@@ -1,16 +1,52 @@
-# React + Vite
+# CodeAlpha Internship Projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the projects I developed during my **Frontend Web Development Internship at CodeAlpha**.
 
-Currently, two official plugins are available:
+The projects demonstrate my practical experience in JavaScript-based frontend development, with a focus on application functionality, user interaction, and building web applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Projects
 
-## React Compiler
+### 1. Calculator
+A web-based calculator developed using JavaScript.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Key Features:**
+- Basic arithmetic calculations.
+- Interactive functionality.
+- User input handling.
 
-## Expanding the ESLint configuration
+### 2. Image Gallery
+A web-based image gallery developed using JavaScript.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Key Features:**
+- Organized image display.
+- Interactive user interface.
+- Dynamic functionality using JavaScript.
+
+## Technologies & Tools
+
+- **JavaScript:** Primary language used for implementing functionality.
+- **HTML5:** Used for webpage structure.
+- **Vite:** Development server and build tool.
+
+## Skills Practised
+
+- JavaScript Programming
+- DOM Manipulation
+- Event Handling
+- Frontend Development
+- Interactive Web Applications
+- Problem Solving
+
+## Internship Details
+
+- **Organization:** CodeAlpha
+- **Position:** Frontend Web Development Intern
+- **Duration:** June 2026
+
+## About This Repository
+
+This repository documents my work during the CodeAlpha internship and showcases my progress in frontend development through practical projects.
+
+---
+
+**Developed as part of the CodeAlpha Frontend Web Development Internship.**
