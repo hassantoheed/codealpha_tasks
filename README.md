@@ -2,51 +2,60 @@
 
 This repository contains the projects I developed during my **Frontend Web Development Internship at CodeAlpha**.
 
-The projects demonstrate my practical experience in JavaScript-based frontend development, with a focus on application functionality, user interaction, and building web applications.
+The projects showcase my practical experience in frontend development, with a focus on JavaScript, interactive web applications, and modern frontend tools.
 
 ## Projects
 
 ### 1. Calculator
-A web-based calculator developed using JavaScript.
+
+A web-based calculator developed as part of my CodeAlpha internship.
 
 **Key Features:**
-- Basic arithmetic calculations.
-- Interactive functionality.
-- User input handling.
+- Performs arithmetic calculations.
+- Interactive calculator interface.
+- Handles user input and calculations.
 
 ### 2. Image Gallery
-A web-based image gallery developed using JavaScript.
+
+A web-based image gallery developed as part of my CodeAlpha internship.
 
 **Key Features:**
-- Organized image display.
-- Interactive user interface.
-- Dynamic functionality using JavaScript.
+- Displays images in an organized layout.
+- Interactive gallery functionality.
+- User-friendly interface.
 
 ## Technologies & Tools
 
-- **JavaScript:** Primary language used for implementing functionality.
+- **JavaScript:** Primary programming language used for application functionality and interactivity.
+- **React.js:** Used for building user interfaces and reusable components.
 - **HTML5:** Used for webpage structure.
 - **Vite:** Development server and build tool.
+- **Tailwind CSS:** Utility-first CSS framework, where applicable.
+- **Lucide React:** Icon library.
 
 ## Skills Practised
 
 - JavaScript Programming
-- DOM Manipulation
-- Event Handling
+- React Components
 - Frontend Development
+- User Interface Development
 - Interactive Web Applications
 - Problem Solving
 
 ## Internship Details
 
 - **Organization:** CodeAlpha
-- **Position:** Frontend Web Development Intern
+- **Role:** Frontend Web Development Intern
 - **Duration:** June 2026
 
 ## About This Repository
 
-This repository documents my work during the CodeAlpha internship and showcases my progress in frontend development through practical projects.
+This repository showcases my work during the CodeAlpha internship and represents my progress in frontend development through practical projects.
+
+It reflects my experience in building web applications, exploring modern frontend technologies, and improving my programming skills.
 
 ---
 
 **Developed as part of the CodeAlpha Frontend Web Development Internship.**
+
+
